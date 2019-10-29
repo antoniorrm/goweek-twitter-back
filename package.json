@@ -13,7 +13,7 @@
     "nodemon": "^1.18.11"
   },
   "scripts": {
-    "start":"npm run build && node src/index.js"
+    "start":"yarn build && node src/index.js"
 
   }
 }
